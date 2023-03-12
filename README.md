@@ -13,3 +13,7 @@ To understand what qualities make an electrical appliances worth purchasing from
 - Lemmatization
 - Bag-of-Words
 - TF-IDF
+
+## Reference
+- https://www.kaggle.com/code/yommnamohamed/sentiment-analysis-using-sentiwordnet/notebook
+- https://github.com/koosha-t/Sentiment-Analysis-NLP-for-Marketting
