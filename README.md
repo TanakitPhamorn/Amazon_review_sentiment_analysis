@@ -14,6 +14,11 @@ To understand what qualities make an electrical appliances worth purchasing from
 - Bag-of-Words
 - TF-IDF
 
+## Data Source
+- https://nijianmo.github.io/amazon/index.html
+
 ## Reference
 - https://www.kaggle.com/code/yommnamohamed/sentiment-analysis-using-sentiwordnet/notebook
 - https://github.com/koosha-t/Sentiment-Analysis-NLP-for-Marketting
+
+
